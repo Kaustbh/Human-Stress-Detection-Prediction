@@ -9,7 +9,7 @@ import pickle
 
 # Step 2: Load and Inspect the Dataset
 # Replace "path/to/your/dataset.csv" with the path to your dataset file
-data = pd.read_csv("D:/VisualStudioPython/Infosys Springboard/stress_pred/cleaned_data.csv")
+data = pd.read_csv("D:/VisualStudioPython/Infosys Springboard/stress_pred/Human-Stress-Detection-Prediction/cleaned_data.csv")
 
 # Print dataset information
 print(data.head())
