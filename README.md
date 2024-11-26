@@ -1,7 +1,7 @@
 # Human Stress Detection and Prediction
 
-[![Django](https://img.shields.io/badge/Django-4.x-brightgreen.svg)](https://www.djangoproject.com/)
-[![Python](https://img.shields.io/badge/Python-3.10%20|%203.12-blue.svg)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-5.x-brightgreen.svg)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/Python-%203.12-blue.svg)](https://www.python.org/)
 
 A Django-based web application that detects and predicts human stress levels during sleep using physiological data. This project employs an Artificial Neural Network (ANN) model to classify sleep data into two categories: **Stressed** or **Not Stressed**.
 
